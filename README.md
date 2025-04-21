@@ -64,7 +64,7 @@ int main()
 }
 ```
 ## OUTPUT:
-![Screenshot 2025-04-16 093950](https://github.com/user-attachments/assets/54f67f22-a6bc-4efe-83fa-7b64a792ed5d)
+![exp 8 ss](https://github.com/user-attachments/assets/71c5cf4a-79a6-4402-9e58-89d9198dbff8)
 
 ## RESULT: 
 The program is executed successfully
